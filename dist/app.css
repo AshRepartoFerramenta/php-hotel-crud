@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+li {
+  list-style-type: none;
+}
+
+header {
+  height: 100px;
+  padding: 20px;
+  background-color: cornflowerblue;
+  color: white;
+}
+
+header h1 {
+  font-size: 40px;
+}
+
+header a {
+  color: white;
+}
+
+main table {
+  padding: 10px;
+}
+
+main table th,
+main table td {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+main a {
+  text-decoration: none;
+  font-weight: 600;
+  color: cornflowerblue;
+}
+
+table {
+  padding: 10px;
+}
+
+table th,
+table td {
+  border: 1px solid black;
+  padding: 5px;
+}
+
